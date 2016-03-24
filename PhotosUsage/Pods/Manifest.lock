@@ -1,0 +1,16 @@
+PODS:
+  - CTAssetsPickerController (3.2.3):
+    - PureLayout (~> 3.0.0)
+  - PureLayout (3.0.1)
+  - SVProgressHUD (2.0-beta3)
+
+DEPENDENCIES:
+  - CTAssetsPickerController (~> 3.2.3)
+  - SVProgressHUD (~> 2.0-beta3)
+
+SPEC CHECKSUMS:
+  CTAssetsPickerController: 7bdf0784778907a905639544174ca5e785993ac7
+  PureLayout: f35f5384c9c4e4479df041dbe33ad7577b71ddfb
+  SVProgressHUD: 7c27dc7cd60b62124155e7aca085c165a2c75e54
+
+COCOAPODS: 0.39.0

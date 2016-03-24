@@ -1,0 +1,2 @@
+pod 'SVProgressHUD', '~> 2.0-beta3'
+pod 'CTAssetsPickerController', '~> 3.2.3'
